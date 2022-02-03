@@ -115,4 +115,4 @@ Alacritty is released under the [Apache License, Version 2.0].
 
 ### test lang
 
-added stuff here.. lulz
+added stuff here.. lulz hhehe
